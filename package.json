@@ -9,6 +9,8 @@
   "author": "Lipin",
   "license": "UNLICENSED",
   "devDependencies": {
+    "copy-webpack-plugin": "^10.2.4",
+    "html-webpack-plugin": "^5.5.0",
     "react": "^17.0.2",
     "ts-loader": "^9.2.6",
     "typescript": "^4.5.5",
